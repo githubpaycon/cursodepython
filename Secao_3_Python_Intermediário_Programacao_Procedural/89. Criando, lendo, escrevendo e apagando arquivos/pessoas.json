@@ -1,0 +1,14 @@
+{
+ "pessoa1": {
+  "nome": "gabriel",
+  "idade": 19,
+  "religiao": "cristao",
+  "sexo": "m"
+ },
+ "pessoa2": {
+  "nome": "jodson",
+  "idade": 35,
+  "religiao": "judeu",
+  "sexo": "m"
+ }
+}
